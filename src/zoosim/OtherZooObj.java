@@ -8,6 +8,6 @@ package zoosim;
  *
  * @author julialiu
  */
-public interface ISwimmable {
-    public boolean canSurface();
+public class OtherZooObj {
+    
 }
