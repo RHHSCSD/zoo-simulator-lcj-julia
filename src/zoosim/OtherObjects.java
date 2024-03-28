@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For other objects
  * @author julialiu
  */
 public class OtherObjects implements IObject {

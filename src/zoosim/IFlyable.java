@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For flying animals
  * @author julialiu
  */
 public interface IFlyable {

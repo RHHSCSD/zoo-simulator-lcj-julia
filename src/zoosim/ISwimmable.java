@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For animals that swim
  * @author julialiu
  */
 public interface ISwimmable {

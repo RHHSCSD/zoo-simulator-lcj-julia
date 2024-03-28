@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For entities
  * @author julialiu
  */
 public interface IEntity extends IObject{

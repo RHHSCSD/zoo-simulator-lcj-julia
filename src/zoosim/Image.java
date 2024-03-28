@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For images
  * @author julialiu
  */
 public class Image {
@@ -13,7 +13,7 @@ public class Image {
     private int height;
     
     /**
-     * 
+     * Create an image
      * @param w
      * @param h 
      */

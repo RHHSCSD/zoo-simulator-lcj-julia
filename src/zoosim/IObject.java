@@ -5,7 +5,7 @@
 package zoosim;
 
 /**
- *
+ * For objects
  * @author julialiu
  */
 public interface IObject {
